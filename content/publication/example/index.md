@@ -43,7 +43,7 @@ tags: []
 projects:
   - example
 image:
-  caption: ""
+  caption: "ADK"
   focal_point: ""
   preview_only: false
   filename: teaser_adk.png
